@@ -1,0 +1,13 @@
+{
+  "effect.iamcreeper.creeper": "Creeper",
+  "item.iamcreeper.creeper_essence": "Creeper Essence",
+  "item.minecraft.potion.effect.creeper_essence_weak": "Potion of Creeper Essence",
+  "item.minecraft.potion.effect.creeper_essence_long": "Potion of Creeper Essence",
+  "item.minecraft.potion.effect.creeper_essence_strong": "Potion of Instant Creeper Detonation",
+  "item.minecraft.splash_potion.effect.creeper_essence_weak": "Splash Potion of Creeper Essence",
+  "item.minecraft.splash_potion.effect.creeper_essence_long": "Splash Potion of Creeper Essence",
+  "item.minecraft.splash_potion.effect.creeper_essence_strong": "Splash Potion of Instant Creeper Detonation",
+  "item.minecraft.lingering_potion.effect.creeper_essence_weak": "Lingering Potion of Creeper Essence",
+  "item.minecraft.lingering_potion.effect.creeper_essence_long": "Lingering Potion of Creeper Essence",
+  "item.minecraft.lingering_potion.effect.creeper_essence_strong": "Lingering Potion of Instant Creeper Detonation"
+}
