@@ -1,4 +1,4 @@
-# Tnt Is Op Mod
+# I am creeper
 
 ## Setup
 
@@ -6,4 +6,4 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 
 ## License
 
-This mod is available under the CC0 license.
+This mod is available under the MIT license.
